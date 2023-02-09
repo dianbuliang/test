@@ -1,1 +1,5 @@
-1111
+@.....  Hello Caoyang，QUA环境目前差不多了，具体信息在这里https://agile.richemont.com/confluence/display/DSOCN/Application+Resources+and+Tools
+
+
+
+https://agile.richemont.cn/bitbucket/projects/PI/repos/ric-portal-devops/browse 这个是存放Helm的地方，我改写了一下通过helm subchart的形式做部署
